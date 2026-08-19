@@ -211,8 +211,8 @@ Presented the analysis through an interactive dashboard designed to communicate 
 ---
 
 ## Dashboard Preview
+<img width="1328" height="745" alt="Screenshot 2026-08-19 155104" src="https://github.com/user-attachments/assets/20d03b6c-8f18-4cee-bbcb-23cd8ea7a418" />
 
-![Mobile Sales Dashboard](Screenshot%202026-08-19%20155104.png)
 
 ---
 
